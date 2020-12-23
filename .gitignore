@@ -1,0 +1,14 @@
+.idea
+target
+*.pyc
+.coverage
+coverage.xml
+junit.xml
+cobertura.xml
+.python-version
+venv/
+.bsp/
+.vscode/
+.metals/
+.DS_Store
+*.jar
